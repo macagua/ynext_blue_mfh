@@ -1,6 +1,6 @@
 [![Python 3.7](https://img.shields.io/badge/Python-3.7-blue)](https://www.python.org/downloads/release/python-375/)
 [![LGPL-3.0](https://img.shields.io/github/license/macagua/ynext_blue_mfh.svg)](https://github.com/macagua/ynext_blue_mfh/blob/master/LICENSE)
-[![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.youtube.com/watch?v=npjC2r2iCqg&t=289s)
+[![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.youtube.com/watch?v=npjC2r2iCqg)
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 
 # Blue MFH
@@ -45,4 +45,4 @@ Then go to Main menu at left top corner and click to **Inventory** > **Master Da
 References
 ----------
 
-- [Odoo 13 Enterprise - Programando un módulo simple - Hola Mundo — Youtube](https://www.youtube.com/watch?v=npjC2r2iCqg&t=289s).
+- [Odoo 13 Enterprise - Programando un módulo simple - Hola Mundo — Youtube](https://www.youtube.com/watch?v=npjC2r2iCqg).
