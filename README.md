@@ -40,6 +40,8 @@ Restart the Odoo instance server, login and got to **Apps** > **Blue MFH** > **I
 
 Then go to Main menu at left top corner and click to **Inventory** > **Master Data** > **Products** > **click into any product** and click to **Edit** button for edit it or click to **Create** or create a new product.
 
+![Access 'Manage Products' from Inventory App](https://raw.githubusercontent.com/macagua/ynext_blue_mfh/master/static/description/manage_products.png "Access 'Manage Products' from Inventory App")
+
 References
 ----------
 
