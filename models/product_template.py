@@ -4,9 +4,10 @@
 # directory
 ##############################################################################
 
-from odoo import models, fields, api
+from odoo import models, fields
 
 class ProductTemplate(models.Model):
+    # python-inherited models
     _inherit = 'product.template'
 
     family_blue = fields.Char('Family')
