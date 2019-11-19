@@ -10,10 +10,7 @@
     'summary': """
         This module inherit from stock app the product.template model 
         and add a new customizations for the 'Blue MFH'.""",
-
-    'description': """
-        The 'Blue MFH' module's purpose is...
-    """,
+    'description': '',
     'depends': ['base', 'stock'],
     'data': [
         'views/views.xml',
