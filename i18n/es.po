@@ -1,0 +1,29 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * ynext_blue_mfh
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-20 04:06+0000\n"
+"PO-Revision-Date: 2019-11-20 00:07-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#. module: ynext_blue_mfh
+#: model:ir.model.fields,field_description:ynext_blue_mfh.field_product_product__family_blue
+#: model:ir.model.fields,field_description:ynext_blue_mfh.field_product_template__family_blue
+msgid "Family"
+msgstr "Familia"
+
+#. module: ynext_blue_mfh
+#: model:ir.model,name:ynext_blue_mfh.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"

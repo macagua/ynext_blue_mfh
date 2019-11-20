@@ -85,6 +85,14 @@ Blue MFH, is a Odoo 13 module that let you add customizations for the 'stock' Ap
   when 'family_blue' field is equal to 'demo'.
 
 
+Features
+========
+
+This Odoo 13 module include the follow technical features included:
+
+- Internationalisation (i18n) support.
+
+
 Dependencies
 ============
 
