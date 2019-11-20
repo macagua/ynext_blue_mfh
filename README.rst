@@ -92,6 +92,8 @@ This Odoo 13 module include the follow technical features included:
 
 - Internationalisation (i18n) support.
 
+- Tests units support.
+
 
 Dependencies
 ============
