@@ -167,8 +167,25 @@ License
 References
 ==========
 
+The followings are the links using as references for development this Odoo 13 module:
+
+Development
+-----------
+
 - `Odoo 13 Enterprise - Programando un módulo simple - Hola Mundo — Youtube <https://www.youtube.com/watch?v=npjC2r2iCqg>`_.
+
+
+Quality assurance
+-----------------
 
 - `Automated testing in Odoo <https://www.surekhatech.com/blog/automated-testing-in-odoo>`_.
 
 - `Odoo Experience 2018 - Improve the Quality of Your Modules with Automated Tests <https://www.youtube.com/watch?v=jZddEWFdUcM>`_.
+
+
+Translations
+------------
+
+- `Language Translation in Odoo 12 <https://www.cybrosys.com/blog/language-translation-odoo-12>`_.
+
+- `How to load translations in Odoo <https://www.youtube.com/watch?v=ce5zMG7EGtE>`_.
