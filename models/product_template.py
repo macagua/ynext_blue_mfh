@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-##############################################################################
-# For copyright and license notices, see __openerp__.py file in module root
-# directory
-##############################################################################
+# Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 from odoo import models, fields
 
