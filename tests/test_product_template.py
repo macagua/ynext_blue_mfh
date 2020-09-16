@@ -29,5 +29,4 @@ class TestProductTemplate(common.TransactionCase):
         # self.assertTrue(self.env['ir.model.fields'].search([('model', '=', 'family_blue')]))
         # _logger.info("The 'family_blue' is install at 'ir.model.fields'.")
 
-        # Do a little print to show it visually for this demo - in production you don't really need this.
         _logger.info("Your 'TestProductTemplate' test was successful!")
